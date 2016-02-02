@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "HighTechLowLife.eu",
+    "longName": "Background de manga",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/manga.bmp",
+                "menuIcon": true,
+                "name": "IMAGE_MANGA",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Manga",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4bfab25a-2e19-4f83-90e0-9958801f0999",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
