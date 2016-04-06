@@ -4,6 +4,7 @@
         ""
     ],
     "companyName": "HighTechLowLife.eu",
+    "enableMultiJS": false,
     "longName": "Background de manga",
     "projectType": "native",
     "resources": {
